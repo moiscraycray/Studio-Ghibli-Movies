@@ -7,3 +7,7 @@ It follows the code similar to [this](https://www.taniarascia.com/how-to-connect
 More about `fetch` can be read here:
 [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch),
 [Web Google](https://developers.google.com/web/updates/2015/03/introduction-to-fetch).
+
+## Deployed site
+
+[Studio Ghibli](https://studio-ghibli-movies.netlify.com/)
